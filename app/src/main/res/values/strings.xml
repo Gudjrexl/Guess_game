@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess game</string>
+    <string name="tenchance">You are given 10 chance to find right number</string>
+    <string name="range">0 - 100</string>
+    <string name="write_a_number">Write a number</string>
+    <string name="submit">SUBMIT</string>
+    <string name="attemp_0">Attemp - 0</string>
+    <string name="reset">Reset</string>
+</resources>
